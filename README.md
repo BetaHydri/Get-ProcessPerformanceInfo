@@ -1,4 +1,4 @@
-# GetProcessPerformance
+# Get-ProcessPerformanceInfo
 
 ## Overview
 GetProcessPerformance is a PowerShell script designed to retrieve and summarize memory usage statistics for specified processes on a Windows system. The script provides detailed information about various memory metrics, including Working Set, Private Bytes, Virtual Memory Size, Paged Memory Size, and Processor Time.
